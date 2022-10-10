@@ -2,7 +2,9 @@
 Shamelessly sharing memes because I believe that whether a meme is good or bad, it deserves to be shared
 
 ##
+<img src="/images/sending_memes_to_group_chat.png" alt="Sending memes" title="Sending memes to group chats">
 
+##
 <img src="/images/image.png" alt="Seriously this doesn't even have a proper filename" title="Meme maker studied Bayesian inference">
 
 ##
