@@ -2,6 +2,9 @@
 Shamelessly sharing memes because I believe that whether a meme is good or bad, it deserves to be shared
 
 ##
+<img src="/images/birds.png" alt="Meme on modeling brids" title="Perception of birds before and after modeling">
+
+##
 <img src="/images/sending_memes_to_group_chat.png" alt="Sending memes" title="Sending memes to group chats">
 
 ##
